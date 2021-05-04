@@ -1,3 +1,13 @@
+a project in development that I called CRUDB, a WebApi created with the intention of serving to digitize reports in which they were made in writing, storing them in a database, aiming at more security and practicality to access and edit this data.
+
+Developed with the PHP Laravel Framework, with the MVC software architecture standard, the Back-end was based on the CRUD concept and the Front-end with Bootstrap, the integrated database was MySQL and with the Jetstream API providing the part verification and creation of new users for access, and facilitating the maintenance of each user's data.
+
+As it is in the final stage of development, some details and improvements for the final version are lacking in which it will increase its scalability and consequently the gains, however according to the video below it is already possible to have a perception about how the application would be in production.
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
